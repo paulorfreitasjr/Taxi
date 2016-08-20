@@ -1,0 +1,8 @@
+Taxi.Cadastro, Taxi;md5f400e34d205fc98f8cb0bbb3c0d18de9.Cadastro
+Taxi.Cadastro, Taxi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f400e34d205fc98f8cb0bbb3c0d18de9.Cadastro
+Taxi.Cadastro;md5f400e34d205fc98f8cb0bbb3c0d18de9.Cadastro
+taxi.Cadastro;md5f400e34d205fc98f8cb0bbb3c0d18de9.Cadastro
+Taxi.MainActivity, Taxi;md5f400e34d205fc98f8cb0bbb3c0d18de9.MainActivity
+Taxi.MainActivity, Taxi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f400e34d205fc98f8cb0bbb3c0d18de9.MainActivity
+Taxi.MainActivity;md5f400e34d205fc98f8cb0bbb3c0d18de9.MainActivity
+taxi.MainActivity;md5f400e34d205fc98f8cb0bbb3c0d18de9.MainActivity
